@@ -25,5 +25,5 @@ Hi, I'm Ashay Wanjarkar, a passionate self-taught frontEnd web developer from In
 
 <a href="https://github.com/ashay-2007/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashay-2007&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashay-2007&layout=compact&theme=material-palenight&hide=jupyter%20notebook" />
 </a>
