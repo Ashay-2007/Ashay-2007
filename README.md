@@ -3,9 +3,9 @@
 <br />
 <br />
 
-Hi, I'm Ashay Wanjarkar, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Ashay Wanjarkar, a passionate self-taught full stack developer from India.
 
-- 🔭 I’m currently learning Fullstack and Machine Learning
+- 🔭 I’m currently learning Machine Learning
 - 🌱 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play chess and listen music.
 - 💬 Ask me about anything [here](https://ashay-2007.github.io/PortfolioV2/#contact)
